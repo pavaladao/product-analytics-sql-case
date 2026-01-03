@@ -38,8 +38,13 @@ product-analytics-case/
 │
 └── README.md
 
-yaml
-Copiar código
+---
+
+## Data Source
+The dataset used in this project is publicly available on Kaggle:
+- E-commerce behavior data from multi-category store
+- https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+Due to size constraints, raw data files are not included in this repository.
 
 ---
 
@@ -80,6 +85,12 @@ By the end of the project, the following outputs are produced:
 - Funnel drop-offs by stage
 - Retention behavior across user cohorts
 - Revenue concentration by user segment
+
+## Dataset Summary
+The dataset contains e-commerce user events collected between October 2019 and April 2020.  
+For performance and clarity, this project focuses on a single month of data (October 2019).
+
+Initial exploration confirms a clear conversion funnel and sufficient volume for robust analysis.
 
 ---
 
